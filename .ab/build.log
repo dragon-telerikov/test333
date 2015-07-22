@@ -1,0 +1,9 @@
+Project "Test.tmp.proj" (default targets):
+	android Build Tooling revision 2015.07.09.1m
+	Warning: Note: Some input files use or override a deprecated API.
+	Warning: Note: Recompile with -Xlint:deprecation for details.
+	Warning: Note: Some input files use or override a deprecated API.
+	Warning: Note: Recompile with -Xlint:deprecation for details.
+	Warning: Note: Some input files use unchecked or unsafe operations.
+	Warning: Note: Recompile with -Xlint:unchecked for details.
+Done building project "Test.tmp.proj".
